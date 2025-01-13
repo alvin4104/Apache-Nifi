@@ -1,0 +1,78 @@
+product_id,product_name,category,price,stock_quantity,region,monthly_revenue,address,cities_provinces,quarter,year,rank
+P001,Product 1,Shoes,1200000,150,Red River Delta,63000000,"113 Tran Hung Dao Street, Phan Chu Trinh Ward, Hoan Kiem District",Ha Noi,4,2024,22
+P002,Product 2,Shoes,800000,200,Red River Delta,40100000,"12A Le Hong Phong Street, Dong Khe Ward, Ngo Quyen District",Hai Phong,4,2024,37
+P003,Product 3,Shoes,300000,300,Red River Delta,90200000,"103 Ba Lan Street, Gieng Day Ward, Ha Long City",Quang Ninh,4,2024,12
+P004,Product 4,Shoes,1200000,150,Red River Delta,50200000,"1B Nguyen Dang Dao Street, Dai Phuc Ward, Bac Ninh City",Bac Ninh,4,2024,30
+P005,Product 5,Shoes,800000,200,Red River Delta,31000000,"15K Phuong Chieu Street, Tien Lu Ward, Hung Yen City",Hung Yen,4,2024,44
+P006,Product 6,Shoes,300000,300,Red River Delta,35000000,"17C Ly Thai To Street, Khai Quang Ward, Vinh Yen City",Vinh Phuc,4,2024,42
+P007,Product 7,Shoes,1200000,150,Northeast,52000000,"188 Gang Thep Street, Trung Thanh Ward, Thai Nguyen City",Thai Nguyen,4,2024,29
+P008,Product 8,Shoes,800000,200,Northeast,60800000,"340 Quang Trung Street, Duu Lau Ward, Viet Tri City",Phu Tho,4,2024,25
+P009,Product 9,Shoes,300000,300,Northeast,92000000,"77 Dao Su Tich Street, Hoang Van Thu Ward, Bac Giang City",Bac Giang,4,2024,11
+P010,Product 10,Shoes,1200000,150,Northeast,30000000,"123 Chu Van An Street, Dong Kinh Ward, lang Son City",Lang Son,4,2024,46
+P011,Product 11,Shoes,800000,200,Northeast,44000000,"104 Dam Quang Trung Street, Hop Giang Ward, Cao Bang City",Cao Bang,4,2024,35
+P012,Product 12,Shoes,300000,300,Northeast,30200000,"14 Pham Van Dong Street, Luong Vuong Ward, Tuyen Quang City",Tuyen Quang,4,2024,45
+P013,Product 13,Shoes,1200000,150,Northwest,80200000,"77 Truong Han Sieu Street, Tan Thinh Ward, Hoa Binh City",Hoa Binh,4,2024,17
+P014,Product 14,Shoes,800000,200,Northwest,60000000,"09 Hoang Quy Street, Bac Cuong Ward, Lao Cai City",Lao Cai,4,2024,26
+P015,Product 15,Shoes,300000,300,Northwest,28000000,"32 Hoang Van Thai, Tan Phong Ward, Lai Chau City",Lai Chau,4,2024,48
+P016,Product 16,Shoes,1200000,150,Northwest,50000000,"47 Nguyen Luong Bang Street, Quyet Thang Street, Son La City",Son La,4,2024,31
+P017,Product 17,Shoes,800000,200,Northwest,34000000,"79 Truong Chinh Street, Tan Thanh Ward, Dien Bien City",Dien Bien,4,2024,43
+P018,Product 18,Shoes,300000,300,Northwest,40000000,"223 Bao Linh Street, Yen Ninh Ward, Yen Bai City",Yen Bai,4,2024,38
+P019,Product 19,Shoes,1200000,150,North Central Coast,70000000,"34 To Huu Street, Xuan Phu Ward, Thuan Hoa District",Hue City,4,2024,20
+P020,Product 20,Shoes,800000,200,North Central Coast,44000000,"32 Nhat Le Street, Bao Ninh Ward, Dong Hoi City",Quang Binh,4,2024,35
+P021,Product 21,Shoes,300000,300,North Central Coast,97000000,"45 Trinh Doanh Street, Ngoc Trang Ward, Thanh Hoa City",Thanh Hoa,4,2024,10
+P022,Product 22,Shoes,1200000,150,North Central Coast,58000000,"34B Xuan Dieu Street, Bac Ha Ward, Ha Tinh City",Ha Tinh,4,2024,28
+P023,Product 23,Shoes,800000,200,North Central Coast,37000000,"234 Nguyen Thien Thuat Street, Dong Hai Ward, Dong Ha City",Quang Tri,4,2024,41
+P024,Product 24,Shoes,300000,300,North Central Coast,62000000,"72 Nguyen Duc Canh Street, Hung Binh Ward, Vinh City",Nghe An,4,2024,23
+P025,Product 25,Shoes,1200000,150,South Central Coast,83000000,"225 Thai Van Lung Street, Hoa Xuan Ward, Cam Le District",Da Nang,4,2024,16
+P026,Product 26,Shoes,800000,200,South Central Coast,50000000,"221 Ly Chieu Hoang Street, Nghia Chanh Nam Ward, Quang Ngai City",Quang Ngai,4,2024,31
+P027,Product 27,Shoes,300000,300,South Central Coast,98000000,"78 Ly Tu Trong Street, Loc Tho Ward, Nha Trang City",Khanh Hoa,4,2024,9
+P028,Product 28,Shoes,1200000,150,South Central Coast,64000000,"111 Ba Trieu Street, Minh Anh Ward, Hoi An City",Quang Nam,4,2024,21
+P029,Product 29,Shoes,800000,200,South Central Coast,47000000,"124 Nguyen Tat Thanh Street, Binh Kien Ward, Tuy Hoa City",Phu Yen,4,2024,34
+P030,Product 30,Shoes,300000,300,South Central Coast,39000000,"24 Vo Tru Street, My Binh Ward, Phan Ran-Thap Cham City",Ninh Thuan,4,2024,40
+P031,Product 31,Shoes,1200000,150,Central Highlands,60000000,"11 Trang Trinh Street, Ward 9, Da Lat City",Lam Dong,4,2024,26
+P032,Product 32,Shoes,800000,200,Central Highlands,40000000,"178 Thi Sach Street, Thang Loi Ward, Kon Tum City",Kon Tum,4,2024,38
+P033,Product 33,Shoes,300000,300,Central Highlands,90000000,"150 Phan Dinh Phung Street, Duc Nghia Ward, Phan Thiet City",Binh Thuan,4,2024,13
+P034,Product 34,Shoes,1200000,150,Central Highlands,50000000,"120 Ly Nam De Street, Tra Ba Ward, Pleiku City",Gia Lai,4,2024,31
+P035,Product 35,Shoes,800000,200,Central Highlands,30000000,"68 Ha Ba Trung Street, Nghia Thanh Ward, Gia Nghia City",Dak Nong,4,2024,46
+P036,Product 36,Shoes,300000,300,Central Highlands,62000000,"167 Mai Thi Luu Street, Ea Tam, Buon Ma Thuot City",Dak Lak,4,2024,23
+P037,Product 37,Shoes,1200000,150,Southeast,150000000,"134 Nguyen Van Tiet Street, Hiep Thanh Ward, Thu Dau Mot City",Binh Duong,4,2024,2
+P038,Product 38,Shoes,800000,200,Southeast,140000000,"23 Trinh Hoai Duc Street, Trung Dung Ward, Bien Hoa City",Dong Nai,4,2024,3
+P039,Product 39,Shoes,300000,300,Southeast,290000000,"786 Le Duan Street, Da Kao Ward, District 1",Ho Chi Minh City,4,2024,1
+P040,Product 40,Shoes,1200000,150,Southeast,130000000,"127 Binh Gia Street, Ward 10, Vung Tau City",Ba Ria Vung Tau,4,2024,4
+P041,Product 41,Shoes,800000,200,Southeast,119300000,"433 Nguyen Chi Thanh Street, Ward 3, Tay Ninh City",Tay Ninh,4,2024,5
+P042,Product 42,Shoes,300000,300,Southeast,105000000,"40B Hung Vuong Street, Tan Binh Ward, Dong Xoai City",Binh Phuoc,4,2024,6
+P043,Product 43,Shoes,1200000,150,Mekong Delta,90000000,"344 Nguyen Truong To Street, An Thoi Ward, Phu Quoc City",Kien Giang,4,2024,13
+P044,Product 44,Shoes,800000,200,Mekong Delta,80000000,"117 Dang Dung Street, My Long Ward, Long Xuyen City",An Giang,4,2024,18
+P045,Product 45,Shoes,300000,300,Mekong Delta,100000000,"70 Phan Dinh Phung Street, An Lac Ward, Ninh Kieu District",Can Tho,4,2024,7
+P046,Product 46,Shoes,1200000,150,Mekong Delta,99000000,"55 Nguyen Cuu Van Street, Ward 5, Tan An City",Long An,4,2024,8
+P047,Product 47,Shoes,800000,200,Mekong Delta,78000000,"144 Luu Van Lang Street, Tan Phu Dong Ward, Sa Dec City",Dong Thap,4,2024,19
+P048,Product 48,Shoes,300000,300,Mekong Delta,86000000,"268 Dinh Bo Linh Street, Ward 2, My Tho City",Tien Giang,4,2024,15
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

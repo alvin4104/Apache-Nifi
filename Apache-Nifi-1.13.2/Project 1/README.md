@@ -59,3 +59,6 @@ Analyzing product performance across different regions and provinces in Vietnam.
 Identifying high-demand products based on their stock quantity and monthly revenue.
 Tracking sales trends by quarter and year, helping to adjust inventory and marketing strategies accordingly.
 In the long term, this system can be expanded to include more complex analytics, like predictive modeling, customer segmentation, and sales forecasting, all based on the rich, structured data collected and processed through this NiFi pipeline
+
+![image](https://github.com/user-attachments/assets/278ea2fd-8e5c-41e9-9b20-15adf61ab068)
+

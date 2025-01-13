@@ -1,0 +1,3 @@
+cd /home/alvinnguyen41/nifi-1.28.1
+./bin/nifi.sh start
+./bin/nifi.sh status

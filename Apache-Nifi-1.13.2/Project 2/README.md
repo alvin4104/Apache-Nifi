@@ -1,7 +1,7 @@
-Project Overview:
+# Project Overview:
 The Youtube_Data project is designed to automate the process of retrieving, transforming, and storing video metadata from YouTube into a structured database (MySQL). Using YouTube Data API in combination with Apache NiFi, this project aims to provide an efficient pipeline for extracting data at scale. The stored data will then be used to analyze trends, video performance, and audience engagement on YouTube, providing valuable insights for businesses, content creators, or marketers. The goal is to create a system that continuously pulls data from YouTube and makes it easily accessible for reporting and analysis.
 
-Key Components:
+# Key Components:
 YouTube Data API: This API provides access to YouTube's data, such as video details, statistics, playlists, and channel information. It allows us to fetch metadata in a structured format.
 Apache NiFi: NiFi is used to manage the automated data flow and processing pipeline. NiFi will handle the extraction, transformation, and loading (ETL) of the raw YouTube data into the MySQL database.
 MySQL Database: The data from the YouTube API will be stored in MySQL, a relational database management system, ensuring that the data is structured, easy to query, and scalable.
@@ -10,7 +10,7 @@ Automate Data Retrieval:
 
 Set up a process that automatically pulls video metadata from YouTube using the YouTube Data API.
 The system will regularly pull new data to ensure the latest video performance statistics and trends are captured.
-Data Transformation:
+# Data Transformation:
 
 Transform the raw JSON data returned by the API into a structured format that can be efficiently stored in a relational database.
 The metadata transformation process will include parsing JSON data into distinct fields, such as video ID, title, description, view count, like count, and more.
@@ -26,7 +26,7 @@ Real-Time Data Updates:
 
 Set up a schedule within NiFi to update the database periodically, ensuring that new metadata from YouTube videos is continuously added to the system.
 Enable the pipeline to handle real-time updates to track new videos, views, likes, and other metrics.
-Scalability:
+# Scalability:
 
 Ensure the solution is scalable and capable of handling a growing dataset. As YouTube data continues to expand, the pipeline should be able to scale to accommodate more data sources, such as additional video channels or categories.
 Project Contribution:
@@ -48,7 +48,7 @@ By having structured, regularly updated YouTube video data, content creators, ma
 Data-Driven Insights:
 
 The database allows users to query and extract meaningful insights from the data. Users can create reports on video performance metrics (e.g., view counts, likes/dislikes ratio, audience demographics) and use this information to optimize YouTube strategies.
-Detailed Steps to Implement the Project:
+# Detailed Steps to Implement the Project:
 1. Setup YouTube Data API:
 Register for an API Key: Sign up for a Google Cloud account and create a project to obtain the YouTube Data API v3 key.
 API Endpoints: Use the API to access video details (e.g., title, description, view count, like count) and channel statistics. The Videos and Channels endpoints will be used to fetch video-specific data.

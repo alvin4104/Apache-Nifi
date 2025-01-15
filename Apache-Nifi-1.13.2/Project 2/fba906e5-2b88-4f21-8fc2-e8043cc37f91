@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "X18LBXNLRJoqauJh625YuXMoQ-0",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FK6IMMdQGXqQC0BrDgArudIEfpo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ekr2nIex040"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-18T04:00:07Z",
+        "channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
+        "title": "ROSÉ &amp; Bruno Mars - APT. (Official Music Video)",
+        "description": "ROSÉ & Bruno Mars - APT. Download/stream: https://rosesarerosie.lnk.to/APTID Order APT. single CD: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ekr2nIex040/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ekr2nIex040/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ekr2nIex040/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ROSÉ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-18T04:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "llPmRLvva3GUWAu7XzEMl-Xdh1E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U0ZoqmyGJo8"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-12T11:00:26Z",
+        "channelId": "UC0L-613FgLHA2WOoBg0Ijpg",
+        "title": "Top hits 2024 playlist  ~ Trending music 2024 ~ Best songs 2024 updated weekly (Playlist Hits)",
+        "description": "Top hits 2024 playlist ~ Trending music 2024 ~ Best songs 2024 updated weekly (Playlist Hits) Top hits 2024 playlist ~ Trending ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U0ZoqmyGJo8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U0ZoqmyGJo8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U0ZoqmyGJo8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Melody Chill Mix",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-12T11:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hQjTvjR9juY2RkDKxW-Qd5oI_z8",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLTo6svdhIL1cxS4ffGueFpVCF756ip-ab"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-13T01:02:57Z",
+        "channelId": "UCPw_qwoYuvJH6K2HF20xDWA",
+        "title": "TikTok Songs 2025 - TikTok Songs Playlist - Tik Tok Music 2025",
+        "description": "TikTok Songs 2025 - TikTok Songs Playlist - Tik Tok Music 2025. Welcome to our TikTok Hits Playlist! . Get ready for a mix of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E2L6NxLf3ic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E2L6NxLf3ic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E2L6NxLf3ic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cloudland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-13T01:02:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M3JtiSXSyUnc8mtD_J90BF_UhAA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k0ubS6BhHu4"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-20T12:00:06Z",
+        "channelId": "UCxjqrhI_el72nq0cBP0veBA",
+        "title": "Tenxi, Naykilla &amp; Jemsii - Garam &amp; Madu (Sakit Dadaku) (Official Music Video)",
+        "description": "Listen to 'Garam & Madu' by Tenxi, Naykilla and Jemsii now! Pre-save Spotify & Apple Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k0ubS6BhHu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k0ubS6BhHu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k0ubS6BhHu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "antinrml",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-20T12:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6OU5rjKIKtO5xmE2fxCScZywNHw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rhOAyPKHWEo"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-13T14:00:08Z",
+        "channelId": "UCO-OdMztI8WPVoz_Dq9n48Q",
+        "title": "Al Shami - Doctor [Official Music Video] (2025) / الشامي - دكتور",
+        "description": "Directed By: Hassan Rhayel Written & Composed By: Al Shami Music Producer: Fouad Jned Artist Management: Music is My Life ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rhOAyPKHWEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rhOAyPKHWEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rhOAyPKHWEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Al Shami - الشامي",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-13T14:00:08Z"
+      }
+    }
+  ]
+}

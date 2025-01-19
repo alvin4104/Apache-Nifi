@@ -81,3 +81,4 @@ Fully Automated Data Pipeline: The system will automatically retrieve, transform
 Easily Accessible Data: The metadata stored in MySQL will be easy to query, allowing users to gain valuable insights into video performance and trends.
 Real-Time Data: The database will always contain up-to-date information about YouTube videos, channels, and performance metrics.
 Improved Decision-Making: With real-time and structured data, businesses and content creators will be able to adjust strategies based on insights from their YouTube content performance.
+![image](https://github.com/user-attachments/assets/1ed7978f-d871-4fa6-93d2-b6623fa44dd3)
